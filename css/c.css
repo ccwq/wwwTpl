@@ -1,0 +1,10 @@
+/* It is a less file. */
+.div_inline_block {
+  display: inline-block;
+}
+.div_inline_block {
+  *display: inline;
+}
+/* 平板电脑和小屏电脑之间的分辨率 */
+/* 横向放置的手机和竖向放置的平板之间的分辨率 */
+/* 横向放置的手机及分辨率更小的设备 */
